@@ -107,6 +107,8 @@ Hold **Volume Down + Power** until the Fastboot screen appears.
 
 **Step 10:** (Recommended) Go to **Backup** and create a full backup of your current system.
 
+![TWRP Screenshot](SS/TWRP_3.0.0-0.png)
+
 Your device is now ready to flash a **Custom ROM**.
 
 ## 📦Flashing the Custom ROM📦
