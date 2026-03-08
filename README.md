@@ -74,6 +74,8 @@
 
 - **Step 2:** Boot into **Fastboot mode** by holding **Volume Down + Power**.
 
+![Fastboot Mode Screen](SS/xiaomi-stuck-on-fastboot-1_cropped_processed_by_imagy)
+
 - **Step 3:** Connect the device to your PC using a USB cable.
 
 - **Step 4:** Open the **Mi Unlock Tool** on your computer and log in with the same Mi account.
