@@ -138,4 +138,6 @@ In *TWRP*: `Wipe` → `Advanced Wipe` → `Dalvik / ART Cache, Cache, Data`, the
 
 **Step 7:** Follow instructions according to your ROM.
 
+![Custom ROM Screenshots](SS/screenshots.png)
+
 # Congratulations!
